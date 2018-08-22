@@ -1,0 +1,23 @@
+{
+  "name": "vince-hannah",
+  "version": "1.0.0",
+  "description": "code 301 lab 7",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vmasten/07-nodejs-npm-express.git"
+  },
+  "author": "Vince Masten Hannah Sindorf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmasten/07-nodejs-npm-express/issues"
+  },
+  "homepage": "https://github.com/vmasten/07-nodejs-npm-express#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
